@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+}
+ul {
+    display: flex;
+    gap:30px;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    text-transform: uppercase;
+    /* border: 1px solid black; */
+}
+a:hover {
+    color:bisque;
+
+}
+a:visited {
+    color:green;
+}
+.right-nav a{
+    padding: 15px;
+    border: 1px solid green;
+    border-radius: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
